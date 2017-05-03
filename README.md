@@ -7,7 +7,7 @@ This iOS application will show Github trending java projects. ReactiveCocoa, Swi
 - Run pod command
     - $ pod install
         - (If you get error in "../Pods/ReactiveSwift/Sources/Atomic.swift Let 'value' is private and cannot be referenced from an ..." 
-        - change "private let value: UnsafeMutablePointer<Int32>" to "let value: UnsafeMutablePointer<Int32>"
+        - change "private let value: UnsafeMutablePointer<Int32>" to "let value: UnsafeMutablePointer<Int32>" 
 - Open GHTrendingProjects.xcworkspace
 
 
